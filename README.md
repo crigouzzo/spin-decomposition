@@ -1,5 +1,5 @@
 # Spin Decomposition
-Mathematica notebook to study four-vector notations. In particular, his is a companion repository to the paper [23xx.xxxx](), used to prove the four vector extension of the spin decomposition
+Mathematica notebook to study four-vector notations. In particular, this is a companion repository to the paper [23xx.xxxx](), used to prove the four vector extension of the spin decomposition
 
 ## Package to install
 The package [xAct](http://xact.es/) is necessary to run the codes.
